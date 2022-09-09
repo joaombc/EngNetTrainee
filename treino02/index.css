@@ -1,0 +1,226 @@
+body {
+    font-family: "Montserrat";
+  }
+
+h1,h2,h3{
+    color: #ff731a;
+}
+
+
+/*apresentação */
+
+#apresentacao{
+    background-color: #000;
+    padding: 2rem;
+}
+.container-fluid{
+    padding: 7% 15%;
+    text-align: center;
+  }
+.imagem{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.nome{
+    font-family: "Ubuntu";
+    padding: 0.5rem;
+    text-align: center;
+}
+.pergunta{
+    margin: 0.5rem;
+}
+.pfundopreto{
+    padding: 1rem 1rem;
+    color: #fff;
+}
+.paligne{
+    text-align: left;
+}
+
+
+/* curiosidade */
+#analise{
+    padding-bottom: 3rem;
+}
+.an-color{
+    color: #A031DB;
+}
+.link-roxo{
+    color: #A031DB;
+}
+.topico{
+    margin-top: 3rem;
+    text-align: center;
+}
+.curiosidade {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.hobbies-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.idioma-img {
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+}
+
+
+
+/* ENGNet */
+
+#engnet{
+    background-color: #000;
+    padding: 2rem;
+    text-align: center;
+}
+.ppequeno{
+    text-align: center;
+    font-size: xx-small;
+    color:#fff;
+}
+
+
+  
+  
+.feature-title {
+    font-size: 1.5rem;
+}
+  
+
+  
+.icon {
+    color: #ff731a;
+    margin-bottom: 1rem;
+}
+  
+.icon:hover {
+    color: #FC3F16;
+}
+
+
+/* COmo fazer a conta */
+#explicacao{
+    background-color: #fff;
+    padding: 2rem;
+    text-align: center;
+}
+.pbranco{
+    text-align: left;
+    padding: 1.5rem;
+}
+.dia{
+    color: #A031DB;
+}
+.topico-roxo{
+    margin-top: 3rem;
+    text-align: center;
+    color: #A031DB;
+}
+
+/* Calculadora */
+
+#calculadora{
+    background-color: #000;
+    padding: 3rem 2rem 2rem 2rem;
+    text-align: center;
+}
+
+label{
+    color: #fff;
+    padding: 2rem 0.5rem;
+}
+
+.semana-btn{
+    margin: 1rem;
+    background: #ff731a; 
+    color: #fff; 
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.p-semana{
+    color: #A031DB;
+    padding-top: 1.5rem;
+}
+
+/* testimonials */
+#testimonials {
+    background-color: #fff;
+    padding: 3rem;
+  }
+  .label-feed{
+    color: #000;
+  }
+  
+  .testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #A031DB;
+  }
+  .seta{
+    color: #000;
+  }
+  
+  .center{
+    text-align: center;
+    color: #A031DB;
+  }
+  .feedback{
+    text-align: center;
+  }
+  
+  #comentar{
+    text-align: center;
+  }
+  .comentar{
+    margin: 1rem;
+    background: #A031DB; 
+    color: #fff; 
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    box-shadow: none;
+}
+  
+/* contato email */
+
+#me-contate{
+    padding: 3rem;
+    text-align: center;
+    background-color: #000;
+}
+
+.btn {
+    background: #ff731a;
+    background-image: -webkit-linear-gradient(top, ##ff731a, ##FC3F16);
+    background-image: -moz-linear-gradient(top, ##ff731a, ##FC3F16);
+    background-image: -ms-linear-gradient(top, ##ff731a, ##FC3F16);
+    background-image: -o-linear-gradient(top, ##ff731a, ##FC3F16);
+    background-image: linear-gradient(to bottom, ##ff731a, ##FC3F16);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
